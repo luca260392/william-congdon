@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+
+<mp:metadata
+  xmlns:mp="http://example.org/MyProject/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://example.org/MyProject/ http://example.org/MyProject/schema.xsd"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+
+  <dc:title xsi:type="mp:LombardiaBeniCulturali" mp:ref="https://www.lombardiabeniculturali.it/opere-arte/schede/WG010-00162/">DUBAI
+  </dc:title>
+  <dc:subject> museo, fondazione, regione, cultura, arte, lombardia, servizio pubblico, centro di informazioni, comunità di ricerca, bibliografia, ricerca, università
+  </dc:subject>
+  <dc:description>
+    OGGETTO
+Definizione: dipinto
+
+Identificazione: opera isolata
+
+Disponibiltà del bene: reale
+
+SOGGETTO
+Categoria generale: paesaggio
+
+Identificazione: Paesaggio marino
+
+Titolo: Dubai
+  </dc:description>
+  <dc:publisher>
+    Autore/Nome scelto: Congdon Grosvenor, William
+  </dc:publisher>
+  <dc:data>
+    Secolo: sec. XX
+
+Da: 1973
+
+Validità: post
+
+A: 1973
+
+Validità: ante
+  </dc:data>
+
+</metadata>
